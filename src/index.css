@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+@layer base {
+    body {
+        @apply font-[Tahoma] 
+    }
+    li{
+        @apply px-4;
+        @apply cursor-pointer
+    }
+    body{
+        @apply bg-[#233969]
+    }
+}
