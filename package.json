@@ -1,9 +1,9 @@
-{
+{ 
   "name": "Exchange",
   "version": "0.1.0",
   "private": true,
   "engines": {
-    "node": "v16.7.0",
+    "node": "16.7.0",
     "npm": "7.20.3"
   },
   "dependencies": {
