@@ -1,6 +1,10 @@
 {
   "name": "Exchange",
   "version": "0.1.0",
+  "engines": {
+    "node": "v16.7.0",
+    "npm": "7.20.3"
+  },
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.2",
